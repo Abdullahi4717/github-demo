@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.45 133.25">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: CooperBlack, 'Cooper Black';
+        font-size: 58.2px;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 48.81) scale(.85 1)"><tspan x="0" y="0">ABDUL</tspan><tspan class="cls-3" x="221.09" y="0">L</tspan><tspan class="cls-2" x="258.83" y="0">AHI </tspan><tspan x="0" y="69.84" xml:space="preserve">  THE P</tspan><tspan class="cls-1" x="211.12" y="69.84">L</tspan><tspan x="247.01" y="69.84">UG</tspan></text>
+</svg>

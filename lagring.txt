@@ -1,0 +1,23 @@
+rasberry pi:
+User:abdullahi10
+passord:Hei123
+
+MariaDB:
+User: abdullahi
+password: Hei123
+Lov om bilder fra power.no
+
+Hvis nettsiden kun brukes internt i skolen (ikke offentlig), kan du bruke bildene
+Dette er fordi bruken da faller inn under undervisningsunntak / privat krets, som teksten din beskriver.
+Dette er lov så lenge:
+•	nettsiden er bare for lærer og elever
+•	den ligger på en lukket plattform (Canvas, ItsLearning, lokal server, USB, ZIP-fil levert inn osv.)
+•	den er ikke tilgjengelig på internett for alle
+Da kan du bruke bildene.
+________________________________________
+⭐ Konklusjon (enkel)
+SITUASJON	                                        LOV?	FORKLARING
+Nettside er online / offentlig	                        ❌ Nei	Opphavsrett, du tilgjengeliggjør verket offentlig
+Nettside leveres bare til lærer  / skole	        ✔️ Ja  	Undervisningsunntak + privat krets
+Du bruker bilde i en PDF-oppgave som ikke publiseres	✔️ Ja	Også greit
+
