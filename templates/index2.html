@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+    <div id="shop-content">
+{% for product in products %}
+<div class="product-box">
+<img src="{{ product.image_url }}" class="product img">
+<h2 class="product-title">{{ product.name }}</h2>
+<span class="price">${{ product.price }}</span>
+<i class='bx bx-shopping-bag add-cart-button'
+data-id="{{ product.id }}"></i>
+</div>
+{% endfor %}
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
